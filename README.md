@@ -1,5 +1,5 @@
 # scanAirtags
-Use pi pico W to find nearby airtags
+Find nearby airtags with Raspberry Pi PicoW or ESP32
 
 Apple airtags transmit a BLE advert every 2 seconds:
 
